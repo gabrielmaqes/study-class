@@ -1,0 +1,32 @@
+body {
+    background-color: #232830;
+    color: #FFFFFF;
+    padding: 32px 128px;
+}
+header {
+    
+}
+.horizontal-box {
+    display: flex;
+    border: 1px solid;
+    justify-content: space-between;
+
+}
+
+#logo {
+    width: 129px;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+
+}
+#menu {
+    width: 50%;
+    text-align: right;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+}
